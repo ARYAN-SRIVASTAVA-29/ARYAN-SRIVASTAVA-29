@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mainaryansrivastav@gmail.com**
 
-- ⚡ Fun fact **I am Lazy**
+- ⚡ Fun fact **I am not Lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
