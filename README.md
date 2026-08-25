@@ -10,7 +10,7 @@ Software Engineering | Machine Learning | Agentic AI | Building practical AI-pow
   <img src="https://komarev.com/ghpvc/?username=aryan-srivastava-29&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-srivastava-29" />
 </p>
 
-- 🎓 BCA graduate with specialization in **Artificial Intelligence and Data Science**
+- 🎓 Pursuing Masters with specialization in **Artificial Intelligence and Data Science**
 
 - 🔭 Interested in **AI/ML, RAG systems, full-stack development, and scalable backend systems**
 
